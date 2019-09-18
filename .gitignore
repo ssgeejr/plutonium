@@ -90,6 +90,17 @@ ENV/
 env.bak/
 venv.bak/
 
+*.jar
+*.war
+*.ear
+*.tar
+*.tgz
+*.zip
+*.7z
+*.rar
+*.tar.gz
+*.gz
+
 # Spyder project settings
 .spyderproject
 .spyproject
